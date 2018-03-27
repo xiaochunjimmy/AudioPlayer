@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="css/audioplayer.css" />
+</head>
+
+<body>
+	<div id="wrapper" style="margin-top:100px">
+		<audio preload="auto" controls>
+					<source src="https://tympanus.net/Development/AudioPlayer/audio/BlueDucks_FourFlossFiveSix.mp3">
+		</audio>
+		<script src="js/jquery.js"></script>
+		<script src="js/audioplayer.js"></script>
+		<script>
+			$(function() {
+				$('audio').audioPlayer();
+			});
+		</script>
+	</div>
+</body>
+
+</html>
