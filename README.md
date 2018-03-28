@@ -3,6 +3,8 @@ A jQuery audio player plugin that is responsive and touch-friendly. The UI is cs
 
 This repo is a redesign of <a title="Osvaldas Valutis' work" href="https://tympanus.net/codrops/2012/12/04/responsive-touch-friendly-audio-player/">Osvaldas Valutis' work</a>  
 
+![AudioPlayer](http://p5ijh16yw.bkt.clouddn.com/audioplayer.png)
+
 I reesigned the UI to fit morden flat design, you can modify the css(such as color,height,with...) to fit your own website style.  
 
 ## How it works
