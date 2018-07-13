@@ -5,7 +5,7 @@ This repo is a redesign of <a title="Osvaldas Valutis' work" href="https://tympa
 
 ![AudioPlayer](http://p5ijh16yw.bkt.clouddn.com/audioplayer.png)
 
-I reesigned the UI to fit morden flat design, you can modify the css(such as color,height,with...) to fit your own website style.  
+I redesigned the UI to fit morden flat design, you can modify the css(such as color,height,width...) to fit your own website style.  
 
 ## How it works
 The plugin replaces targeted `<audio>` elements with some HTML and JavaScript events attached to it.  
